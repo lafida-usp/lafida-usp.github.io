@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "LaFIDA"
+  page-footer:
+    left: |
+      © 2026 LaFIDA — Danilo Giacometti  
+      Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+      Images © All rights reserved
+    right: |
+      Built with Quarto · Hosted on GitHub Pages
+
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: People
+        href: people.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Coding
+        href: coding.qmd
+      - text: Lab news
+        href: news.qmd
+      - text: Gallery
+        href: gallery.qmd
+      - text: Join the lab
+        href: opportunities.qmd
+      
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

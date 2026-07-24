@@ -1,0 +1,7 @@
+---
+title: "News archive"
+---
+
+## Previous updates
+
+Older lab news entries can be found [here](oldnews.pdf).

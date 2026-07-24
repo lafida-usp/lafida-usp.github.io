@@ -1,0 +1,35 @@
+---
+title: "Research"
+---
+
+Research at LaFIDA focuses on how environmental conditions shape the physiology and behaviour of ectothermic animals. We are particularly interested in the integration of thermal biology, hydroregulation, energetics, and evolutionary physiology, and how these processes influence performance, ecological interactions, and responses to environmental change.
+
+------------------------------------------------------------------------
+
+### Thermal biology
+
+We investigate how temperature influences physiological performance and behaviour. This includes the study of behavioural thermoregulation in natural and laboratory settings, thermal performance curves, and the functional consequences of thermal variability across temporal and spatial scales.
+
+------------------------------------------------------------------------
+
+### Hydroregulation
+
+The maintenance of water balance is a critical challenge for many terrestrial ectotherms, particularly amphibians. Our research examines mechanisms of water loss and gain, and how hydration state constrains behaviour, physiology, and ecological performance.
+
+------------------------------------------------------------------------
+
+### Energetics and performance
+
+We study how energy is acquired, allocated, and expended, and how these processes shape organismal performance. This includes linking metabolic processes to behaviour and ecological outcomes.
+
+------------------------------------------------------------------------
+
+### Evolutionary physiology
+
+We investigate how physiological traits evolve in response to environmental pressures, with a particular focus on thermal and hydric challenges. By integrating comparative and experimental approaches, we aim to understand how variation in physiology arises across species and how it contributes to adaptation, performance, and ecological diversification.
+
+------------------------------------------------------------------------
+
+### Quantitative syntheses
+
+We use quantitative synthesis approaches, including meta-analysis and comparative methods, to integrate findings across studies and species. These approaches allow us to identify general patterns, test broad hypotheses, and place experimental results within a wider ecological and evolutionary context.

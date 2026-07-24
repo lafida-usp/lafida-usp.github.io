@@ -1,0 +1,54 @@
+---
+title: "Publications"
+nocite: '@*'
+---
+
+## Peer-reviewed articles
+
+1. Ribeiro, L.P.; Becerra-Soria, C.O.; Gómez, A.G.; **Giacometti, D**.; Salla, R.F.; Avila, A.S.O.; Ramírez, D.R.; Toledo, L.F.; & Parra-Olea, G. *Farming-associated variation in chytrid infection and shedding dynamics in invasive American bullfrogs*. Hydrobiologia. <a href="https://doi.org/10.1007/s10750-026-06301-0" target="_blank" rel="noopener noreferrer">DOI</a>
+
+2. **Giacometti, D**.; Montes, L.F.; Denommé, M.; Andrade, D.V.; & Tattersall, G.J. (2026). *Handle with care: the thermal consequences of short-term handling in mole salamanders*. Journal of Thermal Biology. <a href="https://doi.org/10.1016/j.jtherbio.2026.104390" target="_blank" rel="noopener noreferrer">DOI</a>
+
+3. Lima, W.S.; **Giacometti, D**.; Schaeffer, P.J.; & Carvalho, J. E. (2026). *Closer to the heart: cardiac muscle aerobic capacity explains the intraspecific variation in locomotor performance in the neotropical lizard Tropidurus catalanensis*. Journal of Experimental Zoology A: Ecological and Integrative Physiology. <a href="https://doi.org/10.1002/jez.70040" target="_blank" rel="noopener noreferrer">DOI</a>
+
+4. Kumbhani, H.A.W.; Abney, C.R.; **Giacometti, D**.; & Tattersall, G.J. (2025). *Operative temperatures of eastern garter snakes (Thamnophis sirtalis sirtalis) reveal a Goldilocks effect for habitat use*. Canadian Journal of Zoology. <a href="https://doi.org/10.1139/cjz-2025-0090" target="_blank" rel="noopener noreferrer">DOI</a>
+
+5. **Giacometti, D**.; Moldowan, P.D.; & Tattersall, G.J. (2025). *Sub-zero temperatures during early spring migration in Blue-spotted salamanders (Ambystoma laterale)*. Canadian Journal of Zoology. <a href="https://doi.org/10.1139/cjz-2025-0045" target="_blank" rel="noopener noreferrer">DOI</a>
+
+6. **Giacometti, D**.; Tattersall, G.J.; & Palaoro, A.V. (2025). *Exaggeration through sexual selection may impact the thermal biology of arthropods*. Integrative and Comparative Biology. <a href="https://doi.org/10.1093/icb/icaf023" target="_blank" rel="noopener noreferrer">DOI</a>
+
+7. **Giacometti, D**.; & Tattersall, G. J. (2025). *Behavioural evidence of a humidistat: a temperature-compensating mechanism of hydroregulation in spotted salamanders*. Journal of Experimental Biology. <a href="https://doi.org/10.1242/jeb.250297" target="_blank" rel="noopener noreferrer">DOI</a>
+
+8. **Giacometti, D**.; & Tattersall, G. J. (2025). *Seasonal plasticity in the thermal sensitivity of metabolism but not water loss in a fossorial ectotherm*. Oecologia. <a href="https://doi.org/10.1007/s00442-025-05711-6" target="_blank" rel="noopener noreferrer">DOI</a>
+
+9. **Giacometti, D**.; Silva, L. H. L.; Gomes, G.; Carvalho, J. E.; & Palaoro, A. V. (2025). *Regional heterothermy in Megasoma gyas is not related to active heat dissipation by the horns*. Insect Science. <a href="https://doi.org/10.1111/1744-7917.70018" target="_blank" rel="noopener noreferrer">DOI</a>
+
+10. **Giacometti, D**.; Moldowan, P.D.; & Tattersall, G. J. (2024). *Ups and down of fossorial life: migration restlessness and geotaxis may explain overwintering emergence in the spotted salamander*. Journal of Experimental Biology. <a href="https://doi.org/10.1242/jeb.249319" target="_blank" rel="noopener noreferrer">DOI</a>
+
+11. **Giacometti, D**.; & Tattersall, G. J. (2024). *Seasonal variation of behavioural thermoregulation in a fossorial salamander (Ambystoma maculatum)*. Royal Society Open Science. <a href="https://doi.org/10.1098/rsos.240537" target="_blank" rel="noopener noreferrer">DOI</a>
+
+12. **Giacometti, D**.; Palaoro, A. V.; Leal, L. C.; & Barros, F. C. (2024). *How seasonality influences the thermal biology of lizards with different thermoregulatory strategies: a meta-analysis*. Biological Reviews. <a href="https://doi.org/10.1111/brv.13028" target="_blank" rel="noopener noreferrer">DOI</a>
+
+13. **Giacometti, D**.; & Tattersall, G. J. (2023). *Putting the energetic-savings hypothesis underground: fossoriality does not affect metabolic rates in amphibians*. Evolutionary Ecology. <a href="https://doi.org/10.1007/s10682-023-10253-5" target="_blank" rel="noopener noreferrer">DOI</a>
+
+14. **Giacometti, D**.; Bars‐Closel, M.; Kohlsdorf, T.; de Carvalho, J. E.; & Barros, F. C. (2022). *Environmental temperature predicts resting metabolic rates in tropidurinae lizards*. Journal of Experimental Zoology Part A: Ecological and Integrative Physiology. <a href="https://doi.org/10.1002/jez.2656" target="_blank" rel="noopener noreferrer">DOI</a>
+
+15. **Giacometti, D**.; Yagi, K. T.; Abney, C. R.; Jung, M. P.; & Tattersall, G. J. (2021). *Staying warm is not always the norm: behavioural differences in thermoregulation of two snake species*. Canadian Journal of Zoology. <a href="https://doi.org/10.1139/cjz-2021-0135" target="_blank" rel="noopener noreferrer">DOI</a>
+
+16. Cesar, C. S.; **Giacometti, D**.; Costa-Leonardo, A. M.; & Casarin, F. E. (2019). *Drywood pest termite Cryptotermes brevis (Blattaria: Isoptera: Kalotermitidae): a detailed morphological study of pseudergates*. Neotropical Entomology. <a href="https://doi.org/10.1007/s13744-019-00687-4" target="_blank" rel="noopener noreferrer">DOI</a>
+
+---
+
+## Book chapters
+
+1. Ribeiro, L.P.; **Giacometti, D**.; Boeing, G.A.N.S.; Serrano, J.A.; Ruggeri, J.; Carvalho, J.E.; Salla, R.F.; Brasileiro, C.A.  
+  *Mudanças climáticas e sanidade de anfíbios: impactos e desafios para a ranicultura.* Book chapter. Associação Brasileira de Patologias de Organismos Aquáticos. <a href="https://www.abrapoa.org.br/product-page/sanidade-de-organismos-aqu%C3%A1ticos-no-antropoceno" target="_blank" rel="noopener noreferrer">BOOK</a>
+  
+---
+
+## Under review / submitted / preprints
+
+- **Giacometti, D**.; Servino, L.M.; Cabanzo-Olarte, L.C.; Bícego, K.C.; & Navas, C.A. *When cold-bloods heat up: meta-analytical evidence that climatic variability mediates behavioural fever in amphibians and reptiles*. Global Change Biology. <a href="https://doi.org/10.64898/2026.06.01.729281" target="_blank" rel="noopener noreferrer">DOI</a>
+
+- Diaz-Ricaurte, J.C.; **Giacometti, D.**; Montes, L.F.; Bícego, K.C.; de Carvalho, J.E.; Andrade, D.O. *Strengthening methodological rigour in conservation ecophysiology: improving transparency, reproducibility, and inference*. Conservation Physiology.
+  

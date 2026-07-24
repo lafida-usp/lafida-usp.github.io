@@ -1,0 +1,49 @@
+---
+title: "Code & Data"
+---
+
+## Open science and reproducibility
+
+We develop and share code to support data analysis, visualisation, and reproducible research workflows. Our work emphasizes transparency, accessibility, and reusability across projects.
+
+---
+
+## GitHub
+
+You can find all of our public code repositories on GitHub:
+
+<div class="github-link">
+  <a href="https://github.com/dangiacometti" target="_blank">
+    <img src="images/github.png" class="github-icon">
+    <span>GitHub Profile</span>
+  </a>
+</div>
+
+---
+
+## What you’ll find
+
+- R scripts for data analysis  
+- Code for meta-analyses and comparative methods  
+- Tools for thermal biology and ecological data  
+- Reproducible workflows for research projects  
+
+---
+
+## Selected repositories and data sets
+
+Curated data sets associated with published and ongoing research projects.
+
+<div class="repo-card">
+  <h3>Borealis (Dataverse)</h3>
+  <a href="https://borealisdata-ca.proxy.library.brocku.ca/dataverse/dv?q=giacometti" target="_blank">
+    View data sets
+  </a>
+</div>
+
+<div class="repo-card">
+  <h3>Zenodo</h3>
+  <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Giacometti%2C%20Danilo%22&l=list&p=1&s=10&sort=bestmatch" target="_blank">
+    View data sets
+  </a>
+</div>

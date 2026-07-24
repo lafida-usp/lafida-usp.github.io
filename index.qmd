@@ -1,0 +1,39 @@
+---
+title: "Home"
+---
+
+![](images/Logo%20hor.png){width="500"}
+
+Welcome to the **Laboratory of Integrative Physiology and Animal Performance (LaFIDA)**. LaFIDA is based at the Department of Physiology, Institute of Biosciences, University of São Paulo, Brasil.
+
+At LaFIDA, we investigate how environmental conditions shape the physiology and behaviour of animals. Our research focuses on the integration of thermal biology, water balance, and energetics within a comparative framework. While our research focuses primarily on ectothermic vertebrates such as amphibians and reptiles, we adopt Krogh’s principle and select study systems that best match the question being addressed.
+
+By combining laboratory experiments, field studies, and quantitative syntheses, we aim to understand how organisms cope with environmental variation across time and space, and how these responses influence their performance in a changing world.
+
+------------------------------------------------------------------------
+
+::: social-icons
+<a href="mailto:dgiacometti@usp.br" target="_blank"> <img src="images/email.png"/> </a>
+
+<a href="https://www.researchgate.net/profile/Danilo_Giacometti" target="_blank"> <img src="images/researchgate.png"/> </a>
+
+<a href="https://scholar.google.com.br/citations?user=ECFZU4kAAAAJ&hl=en" target="_blank"> <img src="images/googlescholar.png"/> </a>
+
+<a href="https://orcid.org/0000-0002-3882-000X" target="_blank"> <img src="images/orcid.png"/> </a>
+
+<a href="https://www.webofscience.com/wos/author/record/B-7499-2019" target="_blank"> <img src="images/webofscience.png"/> </a>
+
+<a href="https://www.instagram.com/lafida_usp" target="_blank"> <img src="images/instagram.png"/> </a>
+
+<a href="https://bsky.app/profile/giacometti.bsky.social" target="_blank"> <img src="images/bluesky.png"/> </a>
+:::
+
+## Visitors
+
+::: {style="text-align: center; margin-top: 10px;"}
+```{=html}
+<script type="text/javascript" id="mapmyvisitors"
+    src="//mapmyvisitors.com/map.js?d=pg2UcoHnraZ67djY5p59Sn_5vMjdh8iBuMuGF35Wbc8&cl=ffffff&w=a">
+  </script>
+```
+:::
