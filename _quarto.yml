@@ -4,6 +4,8 @@ project:
 
 website:
   title: "LaFIDA"
+  favicon: images/favicon.png
+  image: images/og-image.png
   page-footer:
     left: |
       © 2026 LaFIDA — Danilo Giacometti  
@@ -36,3 +38,4 @@ format:
     theme: flatly
     css: styles.css
     toc: true
+    open-graph: true

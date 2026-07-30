@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-![](images/Logo%20hor.png){width="500"}
+![](images/Logo.png){width="500"}
 
 Welcome to the **Laboratory of Integrative Physiology and Animal Performance (LaFIDA)**. LaFIDA is based at the Department of Physiology, Institute of Biosciences, University of São Paulo, Brasil.
 
