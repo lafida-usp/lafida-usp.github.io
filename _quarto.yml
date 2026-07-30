@@ -5,6 +5,9 @@ project:
   resources:
     - robots.txt
 
+resources:
+    - google0ffa2c417de41d0f.html
+
 website:
   title: "LaFIDA"
   site-url: https://lafida.ib.usp.br
