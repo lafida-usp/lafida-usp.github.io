@@ -2,8 +2,12 @@ project:
   type: website
   output-dir: docs
 
+  resources:
+    - robots.txt
+
 website:
   title: "LaFIDA"
+  site-url: https://lafida.ib.usp.br
   favicon: images/favicon.png
   image: images/og-image.png
   page-footer:
