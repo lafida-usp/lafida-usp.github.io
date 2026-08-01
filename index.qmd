@@ -32,6 +32,6 @@ By combining laboratory experiments, field studies, and quantitative syntheses, 
 
 ::: {style="text-align: center; margin-top: 10px;"}
 ```{=html}
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=eKLLrCHbvlevDOVcE1OdKqEUqr9opkovmEGuCWvF0Yg&cl=ffffff&w=a"></script>
+<a href="https://info.flagcounter.com/k8nF"><img src="https://s05.flagcounter.com/map/k8nF/size_m/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 ```
 :::
