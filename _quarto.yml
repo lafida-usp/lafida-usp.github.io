@@ -46,3 +46,4 @@ format:
     css: styles.css
     toc: true
     open-graph: true
+    canonical-url: true
