@@ -51,4 +51,11 @@ nocite: '@*'
 - **Giacometti, D**.; Servino, L.M.; Cabanzo-Olarte, L.C.; Bícego, K.C.; & Navas, C.A. *When cold-bloods heat up: meta-analytical evidence that climatic variability mediates behavioural fever in amphibians and reptiles*. Global Change Biology. <a href="https://doi.org/10.64898/2026.06.01.729281" target="_blank" rel="noopener noreferrer">DOI</a>
 
 - Diaz-Ricaurte, J.C.; **Giacometti, D.**; Montes, L.F.; Bícego, K.C.; de Carvalho, J.E.; Andrade, D.O. *Strengthening methodological rigour in conservation ecophysiology: improving transparency, reproducibility, and inference*. Conservation Physiology.
+
+- **Giacometti, D.**; Carvalho, J.E.; Meirelles, P.T.B.; Maenaka; B.M.; Uehara, J.; Miranda,
+L.M.; & Brasileiro, C.A. *Thermal behaviour and performance are decoupled rom physiological limits in an invasive tropical frog*. Integrative Zoology.
+
+- Andrade, T.M.; **Giacometti, D.**; Barros, F.C.; & Carvalho, J.E. *Keeping it cool: pregnancy shifts mathermal thermal preference in hot habitats*. Journal of Thermal Biology. <a href="http://dx.doi.org/10.2139/ssrn.7285774" target="_blank" rel="noopener noreferrer">DOI</a>
+
+
   
