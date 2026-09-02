@@ -48,7 +48,9 @@ nocite: '@*'
 
 ## Under review / submitted / preprints
 
-- **Giacometti, D**.; Servino, L.M.; Cabanzo-Olarte, L.C.; Bícego, K.C.; & Navas, C.A. *When cold-bloods heat up: meta-analytical evidence that climatic variability mediates behavioural fever in amphibians and reptiles*. Global Change Biology. <a href="https://doi.org/10.64898/2026.06.01.729281" target="_blank" rel="noopener noreferrer">DOI</a>
+- **Giacometti, D**.; Servino, L.M.; Cabanzo-Olarte, L.C.; Bícego, K.C.; & Navas, C.A. *When cold-bloods heat up: meta-analytical evidence that climatic variability mediates behavioural fever in amphibians and reptiles*. Proceedings of the Royal Society B. <a href="https://doi.org/10.64898/2026.06.01.729281" target="_blank" rel="noopener noreferrer">DOI</a>
+
+- **Giacometti, D**.; Bars-Closel, M.; Carvalho, J.E.; & Tattersall, G.J. *Beneath the surface: physiology, behaviour, and performance of fossorial amphibians and reptiles*. Biological Reviews. <a href="https://doi.org/10.32942/X2G97Q" target="_blank" rel="noopener noreferrer">DOI</a>
 
 - Diaz-Ricaurte, J.C.; **Giacometti, D.**; Montes, L.F.; Bícego, K.C.; de Carvalho, J.E.; Andrade, D.O. *Strengthening methodological rigour in conservation ecophysiology: improving transparency, reproducibility, and inference*. Conservation Physiology.
 
